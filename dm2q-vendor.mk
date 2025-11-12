@@ -285,11 +285,14 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0-impl \
     vendor.qti.hardware.btconfigstore@2.0-impl \
     vendor.qti.hardware.bttpi-impl \
+    libSWNDFilterPreview.camera.samsung \
     libTsAf_DM123Q \
     libTsAwbFront_DM2 \
     libTsAwb_DM2 \
+    libUniScaler.uniplugin@1.0 \
     lib_SamsungRec_08020 \
     lib_SoundAlive_play_plus_ver800 \
+    lib_lvacfs \
     libbluetooth_audio_session_aidl_qti \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
